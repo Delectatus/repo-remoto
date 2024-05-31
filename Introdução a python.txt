@@ -1,9 +1,9 @@
-# V·ri·veis e Tipos de Dados 
+# V√°ri√°veis e Tipos de Dados em Python
 
 
-Vari·veis -> Nome de coisas (categorias,tipos, classificaÁ„o) ; Coisas que v„o variar
+Vari√°veis -> Nome de coisas (categorias,tipos, classifica√ß√£o) ; Coisas que v√£o variar
 
-ProgramaÁ„o È : 
+Programa√ß√£o √© : 
 
 -> Receber dados
 -> Armazenar dados
@@ -14,20 +14,20 @@ Tipos de dados :
 
 -> Int (inteiro)
 -> float (decimal)
--> Str (string) - conjunto de caractÈres 
+-> Str (string) - conjunto de caract√©res 
 -> Bool (boleano) - True or False 
 
-* Entrada e SaÌda de dados 
+* Entrada e Sa√≠da de dados 
 
-- SaÌda de dados 
+- Sa√≠da de dados 
 
-example : name = John -> Print(f"Ol·, {name}")  ; OU
+example : name = John -> Print(f"Ol√°, {name}")  ; OU
 
-resultado = f'Ol·, {nome}'    ->  print(resultado) 
+resultado = f'Ol√°, {nome}'    ->  print(resultado) 
 
-{} = Din‚mico (pode mudar)
+{} = Din√¢mico (pode mudar)
 
-® O que est· em string ("") n„o muda. 
+¬® O que est√° em string ("") n√£o muda. 
 
 - Entrada de dados
 
@@ -38,7 +38,7 @@ Example : name = (input)
 
 resultado = 'digite aqui o seu nome'
 
-- Convers„o de Dados
+- Convers√£o de Dados
 
 example : idade = 21
 idade = str(idade)
@@ -53,20 +53,20 @@ other stuff
 tipo_de_dado = type(name)
 
 
-* Operadores AritmÈticos 
+* Operadores Aritm√©ticos 
 
 
 + ---> soma
-- >>> subtraÁ„o
-* ---> multiplicaÁ„o
-** ----> potenciaÁ„o 
-/ ----> divis„o
-// ----> divis„o que aceita apenas resultados de n˙meros inteiros sem float
-% ---> (mode) resto de uma divis„o 
+- >>> subtra√ß√£o
+* ---> multiplica√ß√£o
+** ----> potencia√ß√£o 
+/ ----> divis√£o
+// ----> divis√£o que aceita apenas resultados de n√∫meros inteiros sem float
+% ---> (mode) resto de uma divis√£o 
 
-math.sqrt ---> radiciaÁ„o 
+math.sqrt ---> radicia√ß√£o 
 
-( ) ---> Quando o n˙mero est· em parenteses o resultado dele deve ser feito em primeiro lugar para depois continuar o resto da operaÁ„o. 
+( ) ---> Quando o n√∫mero est√° em parenteses o resultado dele deve ser feito em primeiro lugar para depois continuar o resto da opera√ß√£o. 
 
 ****** TREINAR E VER QUAL A SUA APLICABILIDADE
 end = ".../n" 
