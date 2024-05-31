@@ -1,0 +1,75 @@
+# Váriáveis e Tipos de Dados 
+
+
+Variáveis -> Nome de coisas (categorias,tipos, classificação) ; Coisas que vão variar
+
+Programação é : 
+
+-> Receber dados
+-> Armazenar dados
+-> Processar dados
+-> Mostrar os dados processados 
+
+Tipos de dados : 
+
+-> Int (inteiro)
+-> float (decimal)
+-> Str (string) - conjunto de caractéres 
+-> Bool (boleano) - True or False 
+
+* Entrada e Saída de dados 
+
+- Saída de dados 
+
+example : name = John -> Print(f"Olá, {name}")  ; OU
+
+resultado = f'Olá, {nome}'    ->  print(resultado) 
+
+{} = Dinâmico (pode mudar)
+
+¨ O que está em string ("") não muda. 
+
+- Entrada de dados
+
+
+---> Input 
+
+Example : name = (input) 
+
+resultado = 'digite aqui o seu nome'
+
+- Conversão de Dados
+
+example : idade = 21
+idade = str(idade)
+
+another example : 
+
+idade = 23,4
+idade = int(idade)
+
+other stuff
+
+tipo_de_dado = type(name)
+
+
+* Operadores Aritméticos 
+
+
++ ---> soma
+- >>> subtração
+* ---> multiplicação
+** ----> potenciação 
+/ ----> divisão
+// ----> divisão que aceita apenas resultados de números inteiros sem float
+% ---> (mode) resto de uma divisão 
+
+math.sqrt ---> radiciação 
+
+( ) ---> Quando o número está em parenteses o resultado dele deve ser feito em primeiro lugar para depois continuar o resto da operação. 
+
+****** TREINAR E VER QUAL A SUA APLICABILIDADE
+end = ".../n" 
+sep = "#"
+
+COMPREENDER O CONCEITO DE DIR E HELP
